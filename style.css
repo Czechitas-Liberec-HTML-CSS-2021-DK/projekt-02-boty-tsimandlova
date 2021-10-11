@@ -105,9 +105,9 @@ body {
 }
 
 .popis {
+  margin-bottom: 30px;
   padding-bottom: 30px;
   border-bottom: solid 1px #06d7c1;
-  margin-bottom: 30px;
 }
 
 .parametr {
