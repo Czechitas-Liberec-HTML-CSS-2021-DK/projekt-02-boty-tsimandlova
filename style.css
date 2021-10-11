@@ -25,3 +25,34 @@ body {
 */
 
 /* ----- zde zacni psat vlastni css ----- */
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body {
+  background-color: #f5f5f5;
+  font-family: 'Rubik', sans-serif;
+}
+
+.zbozi {
+  display: flex;
+  margin: auto;
+  width: 670px;
+  position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+  height: 440px;
+}
+
+.vizual {
+  background: linear-gradient(#06d7c1, #50cc49);
+  padding: 30px;
+  min-width: 50%;
+}
+
+.detaily {
+  background-color: #ffffff;
+  min-width: 50%;
+  padding: 30px;
+}
